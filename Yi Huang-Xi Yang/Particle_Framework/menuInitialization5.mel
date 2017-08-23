@@ -1,0 +1,385 @@
+if(!`menu -ex MyMenu`) initialMenu();
+
+global proc initialMenu(){ 
+global string $gMainWindow;
+showLayout;
+showRender;
+    setParent $gMainWindow;
+    menu
+    -label "The Vortices Keeper"
+    -parent $gMainWindow
+    -tearOff on
+    MyMenu;
+    menuItem
+    -label "Smoke Generator"
+    -command "callWindow";
+	menuItem
+    -label "Render Image "
+    -command "callRenderWindow";
+    menuItem
+    -label "Display Animation"
+    -command "displayani";
+}
+global proc callWindow()
+{
+    global string $window;
+    if (!`window - ex $window`) showLayout;
+    showWindow $window;
+}
+global proc callRenderWindow(){
+    global string $renderWindow;
+    if (!`window - ex $renderWindow`) showRender;
+    showWindow $renderWindow;
+}
+global proc showLayout()
+{global string $window;
+$window = `window -title "Smoke Generator " Lwindow12` ;
+string $form = `formLayout -numberOfDivisions 100`;
+string $b1 = `text -label "The vortices keeper-IVOCK"`;
+//global string $s1;
+global string $data;
+//$s1 =`button -label "Generate Smoke"`;
+string $f =`frameLayout -label "Parameter Setting"`;
+columnLayout -adjustableColumn true;
+string $advectcontrol =`text -label "Advection Control"`;
+string $op=`optionMenu -label "Advection type       " -changeCommand test typeNumber`;
+menuItem -label "Semi-Lagrangian" ver0;
+menuItem -label "Semi-Lagrangian_IVOCK" ver1;
+menuItem -label "BFECC" ver2;
+menuItem -label "BFECC_IVOCK" ver3;
+menuItem -label "MacCormack" ver4;
+menuItem -label "MacCormack_IVOCK" ver5;
+menuItem -label "FLIP" ver6;
+menuItem -label "FLIP_IVOCK" ver7;
+menuItem -label "Best Combination" ver8;
+global string $vort;
+$vort=`floatSliderGrp -label "vortices confine" -field true -fieldMinValue 0 -fieldMaxValue 10 -minValue 0 -maxValue 10 -value 0.5 -pre 3`;
+string $emitter =`text -label "Emitter Position"`;
+global string $emitterx;
+$emitterx=`floatSliderGrp -label "X" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue -200 -maxValue 200 -value 0`;
+global string $emittery;
+$emittery=`floatSliderGrp -label "Y" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue -200 -maxValue 200 -value 0 `;
+global string $emitterz;
+$emitterz=`floatSliderGrp -label "Z" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue -200 -maxValue 200 -value 0`;
+
+string $windlabel =`text -label "Wind Force"`;
+global string $windx;
+$windx=`floatSliderGrp -label "X" -field true -fieldMinValue -10 -fieldMaxValue 10 -minValue -10 -maxValue 10 -value 0 -pre 3`;
+global string $windy;
+$windy=`floatSliderGrp -label "Y" -field true -fieldMinValue -10 -fieldMaxValue 10 -minValue -10 -maxValue 10 -value 0 -pre 3`;
+global string $windz;
+$windz=`floatSliderGrp -label "Z" -field true -fieldMinValue -10 -fieldMaxValue 10 -minValue -10 -maxValue 10 -value 0 -pre 3`;
+string $tit3 =`text -label "Number of Emitted Particles"`;
+global string $pnum;
+$pnum=`floatSliderGrp -label "Particle number" -field true -fieldMinValue 0 -fieldMaxValue 1000 -minValue 0 -maxValue 1000 -value 384 -pre 0`;
+
+
+string $titl =`text -label "Number of Grid Cells"`;
+global string $iter;
+$iter=`floatSliderGrp -label "X direction" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 200 -value 32 -pre 0`;
+global string $stp;
+$stp=`floatSliderGrp -label "Y direction" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 200 -value 64 -pre 0`;
+global string $ang;
+$ang=`floatSliderGrp -label "Z direction" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 200 -value 32 -pre 0`;
+string $gd=`text -label "Size of finite difference cell"`;
+global string $sz;
+$sz=`floatSliderGrp -label "Cell size" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 100 -value 5`;
+string $step=`text -label "Time Step"`;
+global string $tsp;
+$tsp=`floatSliderGrp -label "time step" -field true -fieldMinValue 0 -fieldMaxValue 10 -minValue 0 -maxValue 10 -value 0.02 -pre 3`;
+string $step1=`text -label "Emitter Setting"`;
+global string $tpm2;
+$tpm2=`floatSliderGrp -label "Temperature" -field true -fieldMinValue 0 -fieldMaxValue 1000 -minValue 0 -maxValue 1000 -value 500.0`;
+string $step3=`text -label "Smoke Control"`;
+global string $tpm4;
+$tpm4=`floatSliderGrp -label "Smoke density" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 100 -value 10.0`;
+global string $tpm5;
+$tpm5=`floatSliderGrp -label "Alpha" -field true -fieldMinValue 0 -fieldMaxValue 1.00 -minValue 0 -maxValue 1 -value 0.15 -pre 3`;
+global string $tpm6;
+$tpm6=`floatSliderGrp -label "Beta" -field true -fieldMinValue 0 -fieldMaxValue 1.00 -minValue 0 -maxValue 1 -value 0.25 -pre 3`;
+text -label "Output File Path";
+global string $tpm7;
+$tpm7=`floatSliderGrp -label "Max Frame" -field true -fieldMinValue 0 -fieldMaxValue 240 -minValue 0 -maxValue 240 -value 60 -pre 0` ;
+string $fpt=`text -label "Output File Path"`;
+global string $fpbox;
+    
+//string $m =`rowLayout -numberOfColumns 2 -columnWidth2 50 10`;
+string $m=`rowColumnLayout -numberOfColumns 3 -columnWidth 90 60 -columnWidth 50 10 -columnWidth 50 10`;   
+button -label "Browse..." -command "openfile" -w 50;
+text -label "           ";  
+$fpbox =`scrollField -wordWrap true -text "Please select a directory"  -h 25 file_path`;  
+text -label "           " -h 30;  
+text -label "           ";  
+text -label "           ";  
+button -label "Create" -command "particleNode";
+text -label "           ";  
+button -label "Cancel" -command "window -e -vis false $window;";
+
+formLayout -edit
+  
+//    -attachForm     $s1     "top"    25
+//    -attachForm  $s1     "bottom" 30 
+//    -attachForm     $s1     "left"   5
+//    -attachPosition $s1     "right"  0 100
+
+    -attachForm     $b1     "right"  5
+    -attachForm     $b1     "left"   5
+    -attachForm  $b1     "top" 25
+    -attachPosition $b1     "right" 0 100  
+    
+    -attachControl     $f     "top"    10 $b1
+    -attachPosition $f     "right"  0 75
+    -attachForm $f "bottom"  30
+
+    
+//    -attachControl  $f       "top"  10 $b1
+//    -attachPosition $f       "right"  0 75
+
+    
+
+$form;
+
+
+//showWindow $window;
+}
+
+global proc particleNode(){
+    global string $window;
+global string $iter;
+global string $stp;
+global string $ang;
+global int $it;
+$it = `floatSliderGrp -q -v $iter`;
+global float $step;
+$step=`floatSliderGrp -q -v $stp`;
+global float $angl;
+$angl=`floatSliderGrp -q -v $ang`;
+global string $sz;
+global string $tsp;
+global string $tpm2;
+global string $tpm4;
+global string $tpm5;
+global string $tpm6;
+global string $tpm7;
+global string $windx;
+global string $windy;
+global string $windz;
+global string $pnum;
+
+float $size = `floatSliderGrp -q -v $sz`;
+float $timestep = `floatSliderGrp -q -v $tsp`;
+float $tempr = `floatSliderGrp -q -v $tpm2`;
+float $density = `floatSliderGrp -q -v $tpm4`;
+float $alhpa = `floatSliderGrp -q -v $tpm5`;
+float $beta = `floatSliderGrp -q -v $tpm6`;
+int $maxf = `floatSliderGrp -q -v $tpm7`;
+int $particlenum = `floatSliderGrp -q -v $pnum`;
+float $wix = `floatSliderGrp -q -v $windx`;
+float $wiy = `floatSliderGrp -q -v $windy`;
+float $wiz = `floatSliderGrp -q -v $windz`;
+string $versionNumber = `optionMenu -q -v typeNumber`;
+int $type=0;
+if($versionNumber=="Semi-Lagrangian") $type=0;
+if($versionNumber=="Semi-Lagrangian_IVOCK") $type=1;
+if($versionNumber=="BFECC") $type=2;
+if($versionNumber=="BFECC_IVOCK") $type=3;
+if($versionNumber=="MacCormack") $type=4;
+if($versionNumber=="MacCormack_IVOCK") $type=5;
+if($versionNumber=="FLIP") $type=6;
+if($versionNumber=="FLIP_IVOCK") $type=7;
+if($versionNumber=="Best Combination") $type=8;
+
+global string $vort;
+global string $emitterx;
+global string $emittery;
+global string $emitterz;
+float $vortcon = `floatSliderGrp -q -v $vort`;
+float $ex=`floatSliderGrp -q -v $emitterx`;
+float $ey=`floatSliderGrp -q -v $emittery`;
+float $ez=`floatSliderGrp -q -v $emitterz`;
+string $filepath;
+$filepath=`scrollField -q -text  file_path`;
+print $filepath;
+
+string $nodename="pnode"+$type;
+createNode ParticleNode - n $nodename;
+setAttr ($nodename+".AdvectionType") $type;
+setAttr ($nodename+".vortconfine") $vortcon;
+setAttr ($nodename+".emitterposX") $ex;
+setAttr ($nodename+".emitterposY") $ey;
+setAttr ($nodename+".emitterposZ") $ez;
+setAttr ($nodename+".cellNumberX") $it;
+setAttr ($nodename+".cellNumberY") $step;
+setAttr ($nodename+".cellNumberZ") $angl;
+setAttr ($nodename+".cellSize") $size;
+setAttr ($nodename+".timeStep") $timestep;
+setAttr ($nodename+".emitterTemperature") $tempr;
+setAttr ($nodename+".smokeDensity") $density;
+setAttr ($nodename+".Alpha") $alhpa;
+setAttr ($nodename+".Beta") $beta;
+setAttr ($nodename+".edf") $maxf;
+setAttr ($nodename+".particleNumber") $particlenum;
+setAttr ($nodename+".WindX") $wix;
+setAttr ($nodename+".WindY") $wiy;
+setAttr ($nodename+".WindZ") $wiz;
+setAttr ($nodename+".fp") -type "string" $filepath;
+
+string $spherename="sph"+$type;
+string $insname="ins"+$type;
+polySphere -r 0.1 - n $spherename;
+instancer - n $insname;
+connectAttr ($spherename+".matrix") ($insname+".inputHierarchy[0]");
+connectAttr time1.outTime ($nodename+".time");
+connectAttr ($nodename+".outpp") ($insname+".inputPoints");
+
+
+window -e -vis false $window;
+
+playbackOptions -e -min 0 -max $maxf;
+//currentTime -e 0;
+//play -wait -forward true;
+//	DisplayShaded;
+//	select -cl;
+//	PlaybackToggle;
+}
+
+
+global proc showRender()
+{
+global string $renderWindow;
+
+$renderWindow = `window -title "Render Image " Lwindow123` ;
+
+string $form = `formLayout -numberOfDivisions 100`;
+string $b1 = `text -label "Render Image"`;
+//string $m =`rowLayout -numberOfColumns 2 -columnWidth2 50 10`;
+string $f =`frameLayout -label "Parameter Setting"`;
+columnLayout -adjustableColumn true;
+
+global string $stf;
+$stf=`floatSliderGrp -label "start frame" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 100 -value 0 -pre 0`;
+global string $edf;
+$edf=`floatSliderGrp -label "end frame" -field true -fieldMinValue 0 -fieldMaxValue 100 -minValue 0 -maxValue 200 -value 100 -pre 0`;
+global string $rensize;
+$rensize=`floatSliderGrp -label "particle size" -field true -fieldMinValue 0 -fieldMaxValue 1 -minValue 0 -maxValue 2 -value 0.8`;
+global string $dens;
+$dens=`floatSliderGrp -label "density" -field true -fieldMinValue 0 -fieldMaxValue 5 -minValue 0 -maxValue 5 -value 1`;
+global string $trans;
+$trans=`floatSliderGrp -label "transparency" -field true -fieldMinValue 0 -fieldMaxValue 1 -minValue 0 -maxValue 1 -value 0.6`;
+global string $sd;
+$sd=`floatSliderGrp -label "shadow map quality" -field true -fieldMinValue 0 -fieldMaxValue 20 -minValue 0 -maxValue 20 -value 10`;
+text -label "           ";  
+text -label "           ";  
+text -label "           ";  
+global string $fnbox;
+    
+//string $m =`rowLayout -numberOfColumns 2 -columnWidth2 50 10`;
+//string $m=`rowColumnLayout -numberOfColumns 3 -columnWidth 90 60 -columnWidth 50 10 -columnWidth 50 10`;   
+button -label "Browse..." -command "openNfile" -w 50;
+text -label "           ";  
+//$fnbox =`scrollField -wordWrap true -text "Please select a directory"  -h 25 file_pathn`;  
+$fnbox =`scrollField -text "Please select a directory"  -h 25 file_pathn`;
+text -label "           " -h 30;  
+
+button -label "Create" -command "RenderNode";
+text -label "           ";  
+button -label "Cancel" -command "window -e -vis false $renderWindow;";
+
+formLayout -edit
+  
+//    -attachForm     $s1     "top"    25
+//    -attachForm  $s1     "bottom" 30 
+//    -attachForm     $s1     "left"   5
+//    -attachPosition $s1     "right"  0 100
+
+    -attachForm     $b1     "right"  5
+    -attachForm     $b1     "left"   5
+    -attachForm  $b1     "top" 25
+    -attachPosition $b1     "right" 0 100  
+    
+    -attachControl     $f     "top"    10 $b1
+    -attachPosition $f     "right"  0 75
+    -attachForm $f "bottom"  30
+	
+	$form;
+	
+//showWindow $renderWindow;
+
+}
+global proc test()
+{
+string $versionNumber = `optionMenu -q -v typeNumber`;
+print $versionNumber;
+print "\n";
+
+}
+
+global proc RenderNode(){
+global string $renderWindow;
+global string $stf;
+global string $edf;
+global string $rensize;
+global string $dens;
+global string $trans;
+global string $sd;
+global string $fnbox;
+global int $sf;
+$sf = `floatSliderGrp -q -v $stf`;
+global int $ef;
+$ef=`floatSliderGrp -q -v $edf`;
+global float $rens;
+$rens=`floatSliderGrp -q -v $rensize`;
+global float $densty;
+$densty=`floatSliderGrp -q -v $dens`;
+global float $transpa;
+$transpa=`floatSliderGrp -q -v $trans`;
+
+global float $sdqlt;
+$sdqlt=`floatSliderGrp -q -v $sd`;
+
+string $filepath;
+$filepath=`scrollField -q -text  file_pathn`;
+//print $filepath;
+
+string $oldpath;
+$oldpath=`scrollField -q -text  file_path`;
+print $oldpath;
+renderCmd -sf $sf -ef $ef -ps $rens -d $densty -ts $transpa -sd $sdqlt -rdf $filepath -bin $oldpath;
+//renderCmd -sf $sf -ef $ef -ps $rens -d $densty -ts $transpa;
+//renderCmd -sf $sf -ef $ef -d $densty -rdf $filepath;
+//deleteUI $renderWindow;
+window -e -vis false $renderWindow;
+
+}
+global proc openfile()
+{
+
+    global string $fpbox;
+    string $filename[] = `fileDialog2  -fileMode 3 -caption "Please select file path..."`;
+    string $filepath= stringArrayToString($filename,"");
+    //$fileId =`fopen $filepath "r"`;
+   // $data =`fread $fileId $data`;
+   // fclose $fileId;
+    scrollField -e -text $filepath file_path; 
+   
+}
+
+global proc openNfile()
+{
+    global string $nfile;
+    global string $fnbox;
+    string $filename[] = `fileDialog2  -fileMode 3 -caption "Please select file path..."`;
+    //string $filepath= stringArrayToString($filename,"");
+    string $nfile= stringArrayToString($filename,"");
+   // scrollField -e -text $filepath file_pathn; 
+    scrollField -e -text $nfile file_pathn;
+}
+global proc displayani()
+{
+    string $filepath;
+    $filepath=`scrollField -q -text  file_pathn`;
+    $filepath=$filepath+"/frame0000.sgi";
+    print $filepath;
+    //file -import -type "image"  -ignoreVersion -ra true -mergeNamespacesOnClash false -namespace "frame0000"  -pr "D:/Mayaoutput3/frame0000.sgi";
+	file -import -type "image"  -ignoreVersion -ra true -mergeNamespacesOnClash false -namespace "frame0000"  -pr $filepath;
+}

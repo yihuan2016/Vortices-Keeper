@@ -1,0 +1,124 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LSystemMaya.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ParticleNode.cpp
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(308): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(352): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(384): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(410): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(425): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\blas_wrapper.h(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+ParticleNode.cpp(15): warning C4273: 'MPxNode::dependsOn': inconsistent dll linkage
+  C:\Program Files\Autodesk\Maya2016\include\maya/MPxNode.h(184): note: see previous definition of 'dependsOn'
+ParticleNode.cpp(334): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(299): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(295): note: while compiling class template member function 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)'
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(525): note: see reference to function template instantiation 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)' being compiled
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(168): note: see reference to class template instantiation 'FixedSparseMatrix<double>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(324): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(112): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(111): note: while compiling class template member function 'void tbb::interface6::internal::ets_base<tbb::ets_no_key>::free(tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *)'
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(218): note: see reference to function template instantiation 'void tbb::interface6::internal::ets_base<tbb::ets_no_key>::free(tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *)' being compiled
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(245): note: see reference to class template instantiation 'tbb::interface6::internal::ets_base<tbb::ets_no_key>' being compiled
+c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(105): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(104): note: while compiling class template member function 'tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *tbb::interface6::internal::ets_base<tbb::ets_no_key>::allocate(std::size_t)'
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(209): note: see reference to function template instantiation 'tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *tbb::interface6::internal::ets_base<tbb::ets_no_key>::allocate(std::size_t)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(337): note: see reference to function template instantiation 'void amgPrecond<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(155): note: see reference to function template instantiation 'void RBGS<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,int,int,int,int)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PluginMain.cpp
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(308): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(352): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(384): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(410): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(425): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\blas_wrapper.h(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(299): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(295): note: while compiling class template member function 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)'
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(525): note: see reference to function template instantiation 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)' being compiled
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(168): note: see reference to class template instantiation 'FixedSparseMatrix<double>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(324): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(112): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(111): note: while compiling class template member function 'void tbb::interface6::internal::ets_base<tbb::ets_no_key>::free(tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *)'
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(218): note: see reference to function template instantiation 'void tbb::interface6::internal::ets_base<tbb::ets_no_key>::free(tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *)' being compiled
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(245): note: see reference to class template instantiation 'tbb::interface6::internal::ets_base<tbb::ets_no_key>' being compiled
+c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(105): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(104): note: while compiling class template member function 'tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *tbb::interface6::internal::ets_base<tbb::ets_no_key>::allocate(std::size_t)'
+  c:\program files\autodesk\maya2016\include\tbb\enumerable_thread_specific.h(209): note: see reference to function template instantiation 'tbb::interface6::internal::ets_base<tbb::ets_no_key>::array *tbb::interface6::internal::ets_base<tbb::ets_no_key>::allocate(std::size_t)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(337): note: see reference to function template instantiation 'void amgPrecond<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(155): note: see reference to function template instantiation 'void RBGS<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,int,int,int,int)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\x64\Debug\ParticleSystemMaya.dll) does not match the Linker's OutputFile property value (D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\ParticleSystemd.mll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1190,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.mll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(ParticleSystemMaya) does not match the Linker's OutputFile property value (ParticleSystemd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  MyPlugin.vcxproj -> D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\x64\Debug\ParticleSystemMaya.dll
+  MyPlugin.vcxproj -> .\Debug/MyPlugin.pdb (Full PDB)

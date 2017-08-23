@@ -1,0 +1,732 @@
+﻿  main.cpp
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(129): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(193): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(194): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(308): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(352): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(384): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(410): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(425): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(455): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(456): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(457): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\blas_wrapper.h(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(198): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(287): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(303): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(310): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(317): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(572): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(582): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(642): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(676): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(677): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(678): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(691): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(708): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(709): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(710): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(738): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(739): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(740): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(767): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(768): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(769): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(826): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(827): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(828): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(835): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(864): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(865): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(866): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(867): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(911): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1003): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1004): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1005): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1013): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1046): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1047): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1048): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1056): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1057): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1058): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1094): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1095): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1096): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1185): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1186): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1194): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1310): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1314): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1318): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1340): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1431): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1432): warning C4018: '>': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1456): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1468): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1521): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1523): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1535): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1541): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1542): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1553): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1588): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1594): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1595): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1596): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1606): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1641): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1647): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1648): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1649): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1659): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1718): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1732): warning C4305: '=': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1734): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1777): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1778): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1783): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1785): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1810): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1811): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1816): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1818): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1847): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1852): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1944): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1963): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2121): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2141): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2161): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2204): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2220): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2236): warning C4018: '<': signed/unsigned mismatch
+main.cpp(216): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(225): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(235): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(88): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(72): note: while compiling class template member function 'void levelGen<double>::generateLevelsGalerkinCoarsening(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int &,FixedSparseMatrix<double> &,int,int,int)'
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(527): note: see reference to function template instantiation 'void levelGen<double>::generateLevelsGalerkinCoarsening(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int &,FixedSparseMatrix<double> &,int,int,int)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(167): note: see reference to class template instantiation 'levelGen<double>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(299): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(295): note: while compiling class template member function 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(525): note: see reference to function template instantiation 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(168): note: see reference to class template instantiation 'FixedSparseMatrix<double>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(106): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(85): note: while compiling class template member function 'void Buffer3D<char>::init(uint,uint,uint)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(415): note: see reference to function template instantiation 'void Buffer3D<char>::init(uint,uint,uint)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(361): note: see reference to class template instantiation 'Buffer3D<char>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(110): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(110): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(345): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(327): note: while compiling class template member function 'float Buffer3D<float>::sample_cube_lerp(double,double,double,float &,float &,float &,float &,float &,float &,float &,float &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(844): note: see reference to function template instantiation 'float Buffer3D<float>::sample_cube_lerp(double,double,double,float &,float &,float &,float &,float &,float &,float &,float &)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(72): note: see reference to class template instantiation 'Buffer3D<float>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(346): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(347): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(348): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(349): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(350): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(351): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(252): note: while compiling class template member function 'float Buffer3D<float>::sample_cubic(double,double,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1156): note: see reference to function template instantiation 'float Buffer3D<float>::sample_cubic(double,double,double)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(268): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(270): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(274): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(277): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(281): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(283): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(289): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(293): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(295): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(297): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(301): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(303): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(305): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(307): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(309): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(312): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(241): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(228): note: while compiling class template member function 'float Buffer3D<float>::sample_linear(double,double,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(124): note: see reference to function template instantiation 'float Buffer3D<float>::sample_linear(double,double,double)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(242): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(243): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(67): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(46): note: while compiling class template member function 'void Buffer3D<float>::init(uint,uint,uint,double,double,double,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(85): note: see reference to function template instantiation 'void Buffer3D<float>::init(uint,uint,uint,double,double,double,double)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(71): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(71): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(23): note: while compiling class template member function 'void levelGen<double>::generateRP(const FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,int,int,int)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(99): note: see reference to function template instantiation 'void levelGen<double>::generateRP(const FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,int,int,int)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(224): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(223): note: while compiling class template member function 'float Buffer3D<float>::lerp(float,float,float)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(345): note: see reference to function template instantiation 'float Buffer3D<float>::lerp(float,float,float)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(189): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_applyOpenBoundaryCondition(Buffer3D<float> *,Buffer3D<float> *,T)'
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1307): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_applyOpenBoundaryCondition(Buffer3D<float> *,Buffer3D<float> *,T)' being compiled
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(155): note: see reference to class template instantiation 'gf::MultiGridSolver3D<float>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(222): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(244): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(301): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(302): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(320): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(321): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(322): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(324): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1040): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(846): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Red_Black_Gauss(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &,int,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1348): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Red_Black_Gauss(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &,int,double)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1333): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Vcycle(Buffer3D<float> *,Buffer3D<float> *,T,T &,int)'
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1310): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Vcycle(Buffer3D<float> *,Buffer3D<float> *,T,T &,int)' being compiled
+          with
+          [
+              T=float
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1073): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1089): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1220): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1198): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Restrict(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1360): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Restrict(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1273): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1251): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_MonopleToMonopole(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(207): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_MonopleToMonopole(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1318): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1303): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Prolongate(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1368): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Prolongate(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1150): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1135): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_ComputeResidual(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1355): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_ComputeResidual(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(346): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(345): note: while compiling class template member function 'float gf::MultiGridSolver3D<float>::m_BarnesHutSummation(int,int,int,int,T,T,T,T,T)'
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(229): note: see reference to function template instantiation 'float gf::MultiGridSolver3D<float>::m_BarnesHutSummation(int,int,int,int,T,T,T,T,T)' being compiled
+          with
+          [
+              T=float
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(347): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(348): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(359): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(371): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(337): note: see reference to function template instantiation 'void amgPrecond<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(155): note: see reference to function template instantiation 'void RBGS<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,int,int,int,int)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(43): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(78): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Smoke_solver3D.cpp
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(129): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(193): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(194): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(308): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(352): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(384): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(410): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(425): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(455): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(456): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(457): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\blas_wrapper.h(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(198): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(287): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(303): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(310): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(317): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(572): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(582): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(642): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(676): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(677): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(678): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(691): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(708): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(709): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(710): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(738): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(739): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(740): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(767): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(768): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(769): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(826): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(827): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(828): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(835): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(864): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(865): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(866): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(867): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(911): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1003): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1004): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1005): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1013): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1046): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1047): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1048): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1056): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1057): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1058): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1094): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1095): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1096): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1185): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1186): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1194): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1310): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1314): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1318): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1340): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1431): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1432): warning C4018: '>': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1456): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1468): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1521): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1523): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1535): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1541): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1542): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1553): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1588): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1594): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1595): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1596): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1606): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1641): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1647): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1648): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1649): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1659): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1718): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1732): warning C4305: '=': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1734): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1777): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1778): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1783): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1785): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1810): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1811): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1816): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1818): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1847): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1852): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1944): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1963): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2121): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2141): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2161): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2204): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2220): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(2236): warning C4018: '<': signed/unsigned mismatch
+Smoke_solver3D.cpp(289): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(437): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(508): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(517): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(627): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(638): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(799): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(800): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(801): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(994): warning C4018: '<': signed/unsigned mismatch
+Smoke_solver3D.cpp(998): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(1014): warning C4018: '>': signed/unsigned mismatch
+Smoke_solver3D.cpp(1016): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(1016): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+Smoke_solver3D.cpp(1017): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(1017): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+Smoke_solver3D.cpp(1018): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(1018): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+Smoke_solver3D.cpp(1031): warning C4018: '<': signed/unsigned mismatch
+Smoke_solver3D.cpp(1887): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(1995): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2040): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2047): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2052): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2057): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2062): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2165): warning C4101: 'res': unreferenced local variable
+Smoke_solver3D.cpp(2305): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2306): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2307): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2437): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2444): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2449): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2453): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2457): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2621): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2628): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2633): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2637): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2641): warning C4305: 'argument': truncation from 'double' to 'float'
+Smoke_solver3D.cpp(2679): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(2703): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Smoke_solver3D.cpp(3071): warning C4018: '<': signed/unsigned mismatch
+Smoke_solver3D.cpp(3147): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(88): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(72): note: while compiling class template member function 'void levelGen<double>::generateLevelsGalerkinCoarsening(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int &,FixedSparseMatrix<double> &,int,int,int)'
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(527): note: see reference to function template instantiation 'void levelGen<double>::generateLevelsGalerkinCoarsening(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int &,FixedSparseMatrix<double> &,int,int,int)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(167): note: see reference to class template instantiation 'levelGen<double>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(299): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\sparse_matrix.h(295): note: while compiling class template member function 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(525): note: see reference to function template instantiation 'void FixedSparseMatrix<double>::construct_from_matrix(const SparseMatrix<double> &)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(168): note: see reference to class template instantiation 'FixedSparseMatrix<double>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(106): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(85): note: while compiling class template member function 'void Buffer3D<char>::init(uint,uint,uint)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(415): note: see reference to function template instantiation 'void Buffer3D<char>::init(uint,uint,uint)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(361): note: see reference to class template instantiation 'Buffer3D<char>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(110): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(110): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(345): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(327): note: while compiling class template member function 'float Buffer3D<float>::sample_cube_lerp(double,double,double,float &,float &,float &,float &,float &,float &,float &,float &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(844): note: see reference to function template instantiation 'float Buffer3D<float>::sample_cube_lerp(double,double,double,float &,float &,float &,float &,float &,float &,float &,float &)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(72): note: see reference to class template instantiation 'Buffer3D<float>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(346): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(347): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(348): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(349): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(350): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(351): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(252): note: while compiling class template member function 'float Buffer3D<float>::sample_cubic(double,double,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1156): note: see reference to function template instantiation 'float Buffer3D<float>::sample_cubic(double,double,double)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(268): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(270): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(274): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(277): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(281): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(283): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(289): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(293): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(295): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(297): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(301): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(303): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(305): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(307): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(309): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(312): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(241): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(228): note: while compiling class template member function 'float Buffer3D<float>::sample_linear(double,double,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(124): note: see reference to function template instantiation 'float Buffer3D<float>::sample_linear(double,double,double)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(242): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(243): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(67): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(46): note: while compiling class template member function 'void Buffer3D<float>::init(uint,uint,uint,double,double,double,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_particle.h(85): note: see reference to function template instantiation 'void Buffer3D<float>::init(uint,uint,uint,double,double,double,double)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(71): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(71): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(23): note: while compiling class template member function 'void levelGen<double>::generateRP(const FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,int,int,int)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(99): note: see reference to function template instantiation 'void levelGen<double>::generateRP(const FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,FixedSparseMatrix<double> &,int,int,int)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\GeometricLevelGen.h(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(224): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(223): note: while compiling class template member function 'float Buffer3D<float>::lerp(float,float,float)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\fluid_buffer3D.h(345): note: see reference to function template instantiation 'float Buffer3D<float>::lerp(float,float,float)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1433): warning C4305: 'argument': truncation from 'double' to 'float'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1399): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_FullMultiGrid(Buffer3D<float> *,Buffer3D<float> *,T,T &)'
+          with
+          [
+              T=float
+          ]
+  Smoke_solver3D.cpp(508): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_FullMultiGrid(Buffer3D<float> *,Buffer3D<float> *,T,T &)' being compiled
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(155): note: see reference to class template instantiation 'gf::MultiGridSolver3D<float>' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1437): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(189): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_applyOpenBoundaryCondition(Buffer3D<float> *,Buffer3D<float> *,T)'
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1307): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_applyOpenBoundaryCondition(Buffer3D<float> *,Buffer3D<float> *,T)' being compiled
+          with
+          [
+              T=float
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(222): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(244): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(301): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(302): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(320): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(321): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(322): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(324): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1040): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(846): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Red_Black_Gauss(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &,int,double)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1348): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Red_Black_Gauss(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &,int,double)' being compiled
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1333): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Vcycle(Buffer3D<float> *,Buffer3D<float> *,T,T &,int)'
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(1310): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Vcycle(Buffer3D<float> *,Buffer3D<float> *,T,T &,int)' being compiled
+          with
+          [
+              T=float
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1073): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1089): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1220): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1198): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Restrict(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1360): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Restrict(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1273): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1251): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_MonopleToMonopole(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(207): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_MonopleToMonopole(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1318): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1303): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_Prolongate(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1368): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_Prolongate(gf::uniform_grid_descriptor_3D &,gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1150): warning C4018: '<': signed/unsigned mismatch
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1135): note: while compiling class template member function 'void gf::MultiGridSolver3D<float>::m_ComputeResidual(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &)'
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(1355): note: see reference to function template instantiation 'void gf::MultiGridSolver3D<float>::m_ComputeResidual(gf::uniform_grid_descriptor_3D &,Buffer3D<float> &,Buffer3D<float> &,Buffer3D<float> &)' being compiled
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(346): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(345): note: while compiling class template member function 'float gf::MultiGridSolver3D<float>::m_BarnesHutSummation(int,int,int,int,T,T,T,T,T)'
+          with
+          [
+              T=float
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(229): note: see reference to function template instantiation 'float gf::MultiGridSolver3D<float>::m_BarnesHutSummation(int,int,int,int,T,T,T,T,T)' being compiled
+          with
+          [
+              T=float
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(347): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(348): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(359): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Multigrid3D.h(371): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(337): note: see reference to function template instantiation 'void amgPrecond<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\Smoke_solver3D.h(558): note: see reference to function template instantiation 'bool AMGPCGSolve<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<FixedSparseMatrix<double> *,std::allocator<FixedSparseMatrix<double>*>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,int,T,int,T &,int &,int,int,int)' being compiled
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(155): note: see reference to function template instantiation 'void RBGS<double>(const FixedSparseMatrix<double> &,const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,int,int,int,int)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(186): note: see reference to function template instantiation 'void amgVCycle<double>(std::vector<FixedSparseMatrix<double> *,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<Vec3i,std::allocator<Vec<3,int>>> &,std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)' being compiled
+          with
+          [
+              _Ty=FixedSparseMatrix<double> *
+          ]
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(43): warning C4018: '<': signed/unsigned mismatch
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\yihua\maya plugin\particle_framework - copy\particle_framework - copy\vorticity keeper\vorticity keeper\AlgebraicMultigrid.h(78): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  vorticity keeper.vcxproj -> D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\x64\Debug\vorticity keeper.exe
+  vorticity keeper.vcxproj -> D:\yihua\Maya plugin\Particle_Framework - Copy\Particle_Framework - Copy\x64\Debug\vorticity keeper.pdb (Full PDB)

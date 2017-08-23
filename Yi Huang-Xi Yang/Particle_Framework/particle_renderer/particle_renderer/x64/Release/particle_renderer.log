@@ -1,0 +1,136 @@
+﻿  bfstream.cpp
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(62): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(95): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(116): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(234): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(267): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(289): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+bfstream.cpp(5): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  execute.cpp
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(62): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(95): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(116): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(234): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(267): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(289): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+execute.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+execute.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+execute.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+execute.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+execute.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+execute.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+execute.cpp(65): warning C4018: '<': signed/unsigned mismatch
+execute.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+execute.cpp(72): warning C4305: 'argument': truncation from 'double' to 'float'
+execute.cpp(73): warning C4305: 'argument': truncation from 'double' to 'float'
+execute.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+execute.cpp(83): warning C4305: 'initializing': truncation from 'double' to 'float'
+execute.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float'
+execute.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+execute.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+execute.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+execute.cpp(54): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  main.cpp
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(62): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(95): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(116): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(234): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(267): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(289): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+main.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+main.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(132): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(135): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(165): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(33): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(34): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(35): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(36): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(37): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(38): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(42): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(43): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(44): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+main.cpp(96): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  obj_reader.cpp
+  read_particles.cpp
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(62): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(95): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(116): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(234): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(267): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(289): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+read_particles.cpp(62): warning C4018: '<': signed/unsigned mismatch
+read_particles.cpp(23): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+read_particles.cpp(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  render.cpp
+  shadow.cpp
+shadow.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  write_sgi.cpp
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(62): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(95): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(116): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(234): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(267): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\yihua\maya plugin\particle_framework - copy\final use\new folder\particle_framework\particle_renderer\particle_renderer\bfstream.h(289): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+  Generating code
+  335 of 343 functions (97.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  particle_renderer.vcxproj -> D:\yihua\Maya plugin\Particle_Framework - Copy\final use\New folder\Particle_Framework\x64\Release\particle_renderer.exe
+  particle_renderer.vcxproj -> D:\yihua\Maya plugin\Particle_Framework - Copy\final use\New folder\Particle_Framework\x64\Release\particle_renderer.pdb (Full PDB)
